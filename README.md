@@ -8,17 +8,21 @@ The main interface works including the Javascript, JQuery. PHP however has to be
 There's no application structure at the time such as MVC. However, the Timesheet can be easily be arranged to do 
 
 The main page is provided in the index.php.
-# Web server
+# Web Server
 The Timesheet was made with wamp at the time, but can accessible with Ampps. 
-For viewing the Timesheet folder can be push the Timesheet folder into the /www folder
+For viewing the Timesheet folder can be push the Timesheet folder into the /www folder. 
+The Timesheet is not deployable since I cannot verify credentials with the client but viewing the website can be obtained. 
 
-#Javascript add-ons
+# Javascript add-ons
+
 ## Bowers-component 
 Bowers-component is a front-end package manager that is allowed to install packages such as JQuery, Noty and Sweetalert. More documentation can be provided with the link 
-provided. 
-
+provided. http://bower.io/
 
 ## Noty
+Noty is a dependency free notification used with javascript. In this application it was to enable notification when a student is able to input their times. More documentation can be provided with the link https://ned.im/noty/#/
 
-## sweetalert
+## SweetAlert
+SweetAlert a javascript window alert function that is able to show any alerts to the administator. More documentation can be provided with the link https://sweetalert.js.org/guides/
+
 
